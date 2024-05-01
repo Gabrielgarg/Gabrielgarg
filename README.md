@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  ![Gabriel Github stats](https://github-readme-stats.vercel.app/api?username=Gabrielgarg&show_icons=true&theme=tokyonight)
+
+
+
+
+  <a href="https://github.com/Gabrielgarg/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabrielgarg" />
+</a>
+<a href="https://github.com/Gabrielgarg/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabrielgarg&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/Gabrielgarg/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrielgarg&repo=github-readme-stats" />
+</a>
