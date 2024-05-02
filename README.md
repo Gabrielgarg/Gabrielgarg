@@ -3,10 +3,10 @@
 
 <div style="display: inline_block"><br>
   <a style="display:inline-block;" href="https://github.com/Gabrielgarg">
-    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=Gabrielgarg&show_icons=true&theme=tokyonight" />
+    <img align="center" width="450" height=200 src="https://github-readme-stats.vercel.app/api?username=Gabrielgarg&show_icons=true&theme=tokyonight" />
   </a>
  <a href="https://github.com/Gabrielgarg">
-    <img align="center" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabrielgarg&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+    <img align="center" height=200 width="365" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabrielgarg&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
   </a>
 </div>
 <br>
