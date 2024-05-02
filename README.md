@@ -26,8 +26,6 @@
   ##
  
 <div> 
- <a href="https://discord.gg/gabrielg7706" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href ="mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-garuthi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
@@ -35,3 +33,7 @@
 <a href="https://github.com/Gabrielgarg">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrielgarg&repo=Gabrielgarg" />
 </a>
+<a href="https://github.com/Gabrielgarg/projeto-intregador-back">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrielgarg&repo=projeto-intregador-back" />
+</a>
+
